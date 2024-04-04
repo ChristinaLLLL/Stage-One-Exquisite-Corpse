@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻 *(timegoesbysoslowly)* 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,11 +29,10 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
-- Published webpage for stage 1:
-
-*... comments to be added here*
+- Name/Alias: Christina 
+- Github account: https://github.com/ChristinaLLLL
+-  Published webpage for stage 1:https://christinallll.github.io/Stage-One-Exquisite-Corpse-time/
+To create my backdrop, I copied a code sequence from my work called FA320 Breath onto a new sketch.  I apply a new skill: tap the variable with two fingers and rename the symbol.  This simultaneously changes all of the variables in my setup function area for the whole project, removing any room for errors.  I altered all the original names to belong with ‘Time Goes By So Slowly’ by Madonna because the song repeats in my head when I think of the word TIME.  Now, the code looks like a written song with the repetition of the caption in the code. I altered the circles' sizes, positions, colours, outlines and movements.  I crave for the circles to keep looping around on repeat instead of having them leave the canvas area.  I mess around with ChatGPT for the first time.  I asked how to repeat my circle's movements across the page without using a loop.  To my delight, it gave me a solution quickly by adding brackets and percentage symbols with width and height. Next, I wanted to know how to make 300 lines move randomly with different colours to create a feeling of busy chaos.  These lines look like confetti at a party in Madonna’s music video. Again, ChatGPT gave me a very easy-to-understand solution by drawing lines using the random function in movement and colour. Finally, I wanted a small circle to rotate clockwise, presenting time around the radius of the background.  I employ ChatGPT to write a code using minimum, height, and width divided by 2-20.  Having one circle rotate in a constant direction represents the inevitability of time; however, the random moving circles behind create unpredictability. I enjoyed using ChatGPT to create exactly what I wanted in the design.  It made the experience enjoyable. I have more control over the creative process with this extra assistance.
 
 ### 🟨 Stage 2
 - Name/Alias:
